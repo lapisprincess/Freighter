@@ -1,0 +1,9 @@
+{"ingredient": {
+    "id": "bone",
+    "value": "Bone",
+
+    "taste": [
+        "meat",
+        "solid"
+    ]
+}}

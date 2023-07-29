@@ -1,0 +1,29 @@
+{"race": {
+    "id": "human",
+    "value": "Human",
+
+    "male names": [
+        "Jak",
+        "Hari",
+        "Kevin"
+    ],
+    "female names": [
+        "Aubrey",
+        "Jen",
+        "Tish"
+    ],
+    "androgynous names": [
+        "Alyx",
+        "Steph",
+        "Blue"
+    ],
+
+    "necessary taste": "salinated",
+    "preferred taste": [
+        "salinated",
+        "sweet",
+        "hearty",
+        "meat",
+        "vegetable"
+    ]
+}}

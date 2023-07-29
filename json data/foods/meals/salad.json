@@ -1,0 +1,13 @@
+{"meal": {
+    "id": "salad",
+    "value": "Salad",
+
+    "ingredients": [
+        {"anything of tastes": ["vegetable"]},
+        "oil",
+        "salt"
+    ],
+    "need all ingredients": "true",
+
+    "tastes": ["vegetable", "salinated"]
+}} 

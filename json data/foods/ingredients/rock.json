@@ -1,0 +1,10 @@
+{"ingredient": {
+    "id": "rock",
+    "value": "Rock",
+
+    "tastes": [
+        "solid",
+        "flavorless",
+        "crunch"
+    ]
+}}

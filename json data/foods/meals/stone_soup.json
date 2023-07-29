@@ -1,0 +1,13 @@
+{"meal": {
+    "id": "stone_soup",
+    "value": "Stone Soup",
+
+    "ingredients": [
+        {"additiional ingredients": ["water"]},
+        "bone",
+        "rock"
+    ],
+    "need all ingredients": "true",
+
+    "tastes": ["solid", "hearty", "meat"]
+}}
